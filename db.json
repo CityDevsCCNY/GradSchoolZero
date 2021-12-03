@@ -13,7 +13,7 @@
       "email": "davidmiller@gradschoolzero.edu",
       "password": "rKN3KFaKVx",
       "type": "student",
-      "warningCnt": 1,
+      "warningCnt": 2,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -28,7 +28,7 @@
       "email": "anilbhusal@gradschoolzero.edu",
       "password": "anil",
       "type": "student",
-      "warningCnt": 1,
+      "warningCnt": 2,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -43,7 +43,7 @@
       "email": "rabindrayadav@gradschoolzero.edu",
       "password": "rabindra",
       "type": "student",
-      "warningCnt": 1,
+      "warningCnt": 2,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -58,7 +58,7 @@
       "email": "naryankhanal@gradschoolzero.edu",
       "password": "narayan",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -73,7 +73,7 @@
       "email": "johndoe@gradschoolzero.edu",
       "password": "john",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -132,7 +132,7 @@
       "email": "rambahadur@gradschoolzero.edu",
       "password": "DtNiLr3OaP",
       "type": "instructor",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -143,7 +143,7 @@
       "email": "christopherjohnson@gradschoolzero.edu",
       "password": "chris",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -329,143 +329,9 @@
           "name": "Christopher Johnson"
         }
       ]
-    },
-    {
-      "id": "81299124-49f5-4faa-84b8-5e18126ddc05",
-      "section": "F21S0000",
-      "course": {
-        "id": "7425d8ab-9a10-46a4-b6d0-90c1b1dda2de",
-        "code": "I4200",
-        "name": "Computer Architecture"
-      },
-      "instructor": {
-        "id": "f9aacb48-75e8-441c-b6d4-9c5191ef25de",
-        "name": "Ram Bahadur"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Tue",
-          "start": "08:45",
-          "end": "21:45"
-        }
-      ],
-      "waitList": []
     }
   ],
-  "grades": [
-    {
-      "id": "8ef0189f-9adc-43e4-88f5-d3d46fb43c83",
-      "course": {
-        "code": "I0600",
-        "id": "c22f11a4-8659-48c1-87bd-4bdd29678dc6",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "b2b1a3bb-35ff-407e-b58d-4be2cedd9280",
-        "name": "Kris "
-      },
-      "student": {
-        "id": "d2430223-9daf-45b1-92e0-bd284f1d9aa6",
-        "name": "David Miller"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "ad57a7b7-c73a-4e78-977d-2c93e013a760",
-      "course": {
-        "code": "I0600",
-        "id": "c22f11a4-8659-48c1-87bd-4bdd29678dc6",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "b2b1a3bb-35ff-407e-b58d-4be2cedd9280",
-        "name": "Kris "
-      },
-      "student": {
-        "id": "6bb3fa29-1214-464f-92ae-7daa7c98222c",
-        "name": "Anil Bhusal"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "5c40536b-6aae-423d-99b3-af6cebf1793e",
-      "course": {
-        "code": "I0600",
-        "id": "c22f11a4-8659-48c1-87bd-4bdd29678dc6",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "b2b1a3bb-35ff-407e-b58d-4be2cedd9280",
-        "name": "Kris "
-      },
-      "student": {
-        "id": "84de1d70-b72d-45da-b8e9-805dfaf33503",
-        "name": "Rabindra Yadav"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "23ec5688-7e0e-40df-9280-4d7204ffa78e",
-      "course": {
-        "code": "I0600",
-        "id": "c22f11a4-8659-48c1-87bd-4bdd29678dc6",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "b2b1a3bb-35ff-407e-b58d-4be2cedd9280",
-        "name": "Kris "
-      },
-      "student": {
-        "id": "02b4c36f-53fc-430f-b803-f0a215da6334",
-        "name": "Naryan Khanal"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "f9124373-890f-4615-9abd-72ec8561929d",
-      "course": {
-        "code": "I0600",
-        "id": "c22f11a4-8659-48c1-87bd-4bdd29678dc6",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "b2b1a3bb-35ff-407e-b58d-4be2cedd9280",
-        "name": "Kris "
-      },
-      "student": {
-        "id": "fee3717c-2fc8-4e07-ae29-b11d125256bb",
-        "name": "John Doe"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    }
+  "grades": [ 
   ],
   "applications": [
     {
@@ -499,50 +365,11 @@
       "phase": "registration",
       "semester": "Fall",
       "year": 2021,
-      "specReg": false
+      "specReg": true
     }
   ],
   "warnings": [
-    {
-      "id": "081ebb1c-c12c-4f96-913d-de7df40b8f8e",
-      "date": "2021-12-02T22:53:19.552Z",
-      "user": {
-        "id": "d2430223-9daf-45b1-92e0-bd284f1d9aa6",
-        "name": "David Miller"
-      },
-      "reason": "Student taking less than 2 courses",
-      "value": 1
-    },
-    {
-      "id": "f27f69c0-0b59-48aa-8278-b7e639e8e9d5",
-      "date": "2021-12-02T22:53:19.621Z",
-      "user": {
-        "id": "6bb3fa29-1214-464f-92ae-7daa7c98222c",
-        "name": "Anil Bhusal"
-      },
-      "reason": "Student taking less than 2 courses",
-      "value": 1
-    },
-    {
-      "id": "13e442c1-21de-47e7-a46e-e41e0b4a8f32",
-      "date": "2021-12-02T22:53:19.684Z",
-      "user": {
-        "id": "84de1d70-b72d-45da-b8e9-805dfaf33503",
-        "name": "Rabindra Yadav"
-      },
-      "reason": "Student taking less than 2 courses",
-      "value": 1
-    },
-    {
-      "id": "7e73c552-9697-4f8c-97dc-7db14c454895",
-      "date": "2021-12-02T22:53:19.723Z",
-      "user": {
-        "id": "02b4c36f-53fc-430f-b803-f0a215da6334",
-        "name": "Naryan Khanal"
-      },
-      "reason": "Student taking less than 2 courses",
-      "value": 1
-    }
+    
   ],
   "reviews": []
 }
