@@ -1,7 +1,6 @@
 import { Container } from "react-bootstrap";
 import "./About.css";
 
-
 const About = () => {
   return (
     <div className="custom-body">
@@ -89,13 +88,11 @@ const About = () => {
 
         <div className="custom-bottomCover"></div>
 
-
-        <div calssName="meetTheTeam">
-          <h2>Meet The Team</h2></div>
+        <div className="meetTheTeam">
+          <h2>Meet The Team</h2>
+        </div>
         {/* //profile links #######################*/}
         <section className="lastDiv">
-
-
           <div className="profileCards">
             <div className="profileImage image1"></div>
             <h4>Anil Bhushal</h4>
@@ -108,7 +105,6 @@ const About = () => {
             <h4>Anthony Liang</h4>
             <p>CSC 322 || CCNY </p>
             <a href="">LinkedIn</a>
-
           </div>
 
           <div className="profileCards">
@@ -125,41 +121,17 @@ const About = () => {
             <a href="">LinkedIn</a>
           </div>
 
-
           <div className="profileCards">
             <div className="profileImage image5"></div>
             <h4>Nafis Khan</h4>
             <p>CSC 322 || CCNY </p>
             <a href="">LinkedIn</a>
           </div>
-
-
-
-
-
         </section>
 
-
-
-
-
-
-
-
-
-
         {/* //profile links######################### */}
-
-
-
-
-
-
-      </Container >
-
-    </div >
-
-
+      </Container>
+    </div>
   );
 };
 

@@ -24,7 +24,7 @@
       "name": "student",
       "email": "student@gradschoolzero.edu",
       "password": "password",
-      "specReg": false,
+      "specReg": true,
       "warningCnt": 1,
       "suspended": false,
       "graduated": false,
@@ -39,8 +39,8 @@
       "name": "student2",
       "email": "student2@gradschoolzero.edu",
       "password": "password",
-      "specReg": false,
-      "warningCnt": 0,
+      "specReg": true,
+      "warningCnt": 1,
       "suspended": false,
       "graduated": false,
       "removed": false,
@@ -54,7 +54,7 @@
       "email": "davidmiller@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -69,7 +69,7 @@
       "email": "mvijay@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -87,7 +87,7 @@
       "warningCnt": 0,
       "suspended": false,
       "removed": false,
-      "specReg": false,
+      "specReg": true,
       "graduated": false,
       "honorRoll": [],
       "GPA": "2.57",
@@ -102,7 +102,7 @@
       "warningCnt": 0,
       "suspended": false,
       "removed": false,
-      "specReg": false,
+      "specReg": true,
       "graduated": false,
       "honorRoll": [],
       "GPA": "3.30",
@@ -117,7 +117,7 @@
       "warningCnt": 0,
       "suspended": false,
       "removed": false,
-      "specReg": false,
+      "specReg": true,
       "graduated": false,
       "honorRoll": [],
       "GPA": "3.85",
@@ -132,7 +132,7 @@
       "warningCnt": 0,
       "suspended": false,
       "removed": false,
-      "specReg": false,
+      "specReg": true,
       "graduated": false,
       "honorRoll": [],
       "GPA": "2.30",
@@ -147,7 +147,7 @@
       "warningCnt": 0,
       "suspended": false,
       "removed": false,
-      "specReg": false,
+      "specReg": true,
       "graduated": false,
       "honorRoll": [],
       "GPA": "1.90",
@@ -162,7 +162,7 @@
       "warningCnt": 0,
       "suspended": false,
       "removed": false,
-      "specReg": false,
+      "specReg": true,
       "graduated": false,
       "honorRoll": [],
       "GPA": "3.50",
@@ -174,7 +174,7 @@
       "email": "anilbhusal@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -192,7 +192,7 @@
       "warningCnt": 0,
       "suspended": false,
       "removed": false,
-      "specReg": false,
+      "specReg": true,
       "graduated": false,
       "honorRoll": [],
       "GPA": "2.00",
@@ -204,7 +204,7 @@
       "name": "George Simon",
       "email": "gsimon@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 2,
       "suspended": false,
       "removed": false,
       "rating": 1
@@ -215,7 +215,7 @@
       "name": "David Ifa",
       "email": "difa@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 2,
       "suspended": false,
       "removed": false,
       "rating": 3.7
@@ -226,7 +226,7 @@
       "name": "Behnam Sidsel",
       "email": "bsidsel@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 2,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -237,7 +237,7 @@
       "name": "Oni Cledwyn",
       "email": "ocledwyn@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -248,7 +248,7 @@
       "name": "Alfhildr Melano",
       "email": "amelano@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 4,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -259,7 +259,7 @@
       "name": "Elena Patroklos",
       "email": "epatroklos@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 3,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -270,7 +270,7 @@
       "name": "Olindo Klara",
       "email": "oklara@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 3,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -281,7 +281,7 @@
       "name": "Jamal Cyrillus",
       "email": "jcyrillus@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 4,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -292,7 +292,7 @@
       "name": "Dakila Claudia",
       "email": "dclaudia@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 3,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -303,7 +303,7 @@
       "name": "Giobbe Rishi",
       "email": "grishi@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 3,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -325,7 +325,7 @@
       "name": "Aderyn Adam",
       "email": "aadam@gradschoolzero.edu",
       "password": "password",
-      "warningCnt": 0,
+      "warningCnt": 4,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -339,7 +339,7 @@
       "warningCnt": 0,
       "suspended": false,
       "removed": false,
-      "specReg": false,
+      "specReg": true,
       "graduated": false,
       "honorRoll": [],
       "GPA": null,
@@ -366,7 +366,7 @@
       "email": "vbaishan@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -381,7 +381,7 @@
       "email": "saditya@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -396,7 +396,7 @@
       "email": "akatey@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -411,7 +411,7 @@
       "email": "hnorah@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -426,7 +426,7 @@
       "email": "xtanguy@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -441,7 +441,7 @@
       "email": "aaskr@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -456,7 +456,7 @@
       "email": "vgilbert@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -471,7 +471,7 @@
       "email": "rgunnr@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -486,7 +486,7 @@
       "email": "dzinat@gradschoolzero.edu",
       "password": "password",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -501,7 +501,7 @@
       "email": "narayankhanal@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -516,7 +516,7 @@
       "email": "ganeshshah@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -531,7 +531,7 @@
       "email": "tenzintashi@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -546,7 +546,7 @@
       "email": "jharana@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "student",
-      "warningCnt": 0,
+      "warningCnt": 1,
       "suspended": false,
       "removed": false,
       "specReg": false,
@@ -561,7 +561,7 @@
       "email": "denisp@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "instructor",
-      "warningCnt": 0,
+      "warningCnt": 6,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -572,7 +572,7 @@
       "email": "krism@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "instructor",
-      "warningCnt": 0,
+      "warningCnt": 6,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -583,7 +583,7 @@
       "email": "sorowatp@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "instructor",
-      "warningCnt": 0,
+      "warningCnt": 5,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -594,7 +594,7 @@
       "email": "andym@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "instructor",
-      "warningCnt": 0,
+      "warningCnt": 5,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -605,7 +605,7 @@
       "email": "midorip@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "instructor",
-      "warningCnt": 0,
+      "warningCnt": 4,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -616,7 +616,33 @@
       "email": "maxr@gradschoolzero.edu",
       "password": "Gradschool",
       "type": "instructor",
+      "warningCnt": 3,
+      "suspended": false,
+      "removed": false,
+      "rating": null
+    },
+    {
+      "id": "ca8d3bd9-77eb-4406-9e85-318ef2e05209",
+      "name": "NK",
+      "email": "nk@gradschoolzero.edu",
+      "password": "abcd",
+      "type": "student",
       "warningCnt": 0,
+      "suspended": false,
+      "removed": false,
+      "specReg": true,
+      "graduated": false,
+      "honorRoll": [],
+      "GPA": null,
+      "applyGrad": false
+    },
+    {
+      "id": "b5e043f1-8948-45ef-b9a7-459806d7985a",
+      "name": "KN",
+      "email": "kn@gradschoolzero.edu",
+      "password": "zfzt4MVWxu",
+      "type": "instructor",
+      "warningCnt": 4,
       "suspended": false,
       "removed": false,
       "rating": null
@@ -816,8 +842,7 @@
         "year": 2020
       },
       "capacity": {
-        "max": 5,
-        "available": 0
+        "available": null
       },
       "time": [
         {
@@ -863,40 +888,6 @@
           "day": "Wed",
           "start": "10:30",
           "end": "11:45"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "15748fc6-5c4f-4cf2-b74c-1616a846a89a",
-      "section": "F21S0000",
-      "course": {
-        "id": "f968b316-173b-4030-af15-81b71953787f",
-        "code": "I9606",
-        "name": "Concurrent Shared Memory Systems"
-      },
-      "instructor": {
-        "id": "81db7f41-504d-4e06-a90c-8c73b9e01d00",
-        "name": "David Ifa"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "16:30",
-          "end": "17:45"
-        },
-        {
-          "day": "Wed",
-          "start": "16:30",
-          "end": "17:45"
         }
       ],
       "waitList": []
@@ -1033,142 +1024,6 @@
       "waitList": []
     },
     {
-      "id": "da800807-15c8-4288-b2e0-07a4223039e2",
-      "section": "F21S0000",
-      "course": {
-        "id": "7425d8ab-9a10-46a4-b6d0-90c1b1dda2de",
-        "code": "I4200",
-        "name": "Computer Architecture"
-      },
-      "instructor": {
-        "id": "24c949ba-af1e-4c6f-9aca-5d5b1161c66b",
-        "name": "Behnam Sidsel"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 2
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "14:15",
-          "end": "15:30"
-        },
-        {
-          "day": "Wed",
-          "start": "14:15",
-          "end": "15:30"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "61f18133-b4a8-43c7-97ae-d99cbb8eaa5e",
-      "section": "F21S0000",
-      "course": {
-        "id": "65bd754b-9a81-4591-9907-f50e5c8eeab1",
-        "code": "I0600",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "185d11e4-87e1-48ef-9bf9-20db45cf6cc8",
-        "name": "George Simon"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 3
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "10:30",
-          "end": "11:45"
-        },
-        {
-          "day": "Wed",
-          "start": "10:30",
-          "end": "11:45"
-        }
-      ],
-      "waitList": [
-        {
-          "id": "104713d0-d46f-4a4e-930f-ea63bc48f915",
-          "name": "student2"
-        }
-      ]
-    },
-    {
-      "id": "dcf7aa6c-c6fd-4664-adc9-2c81c7e55b9e",
-      "section": "F21S0000",
-      "course": {
-        "id": "19e428c9-fb2b-483d-9b47-57ffee078a48",
-        "code": "I0802",
-        "name": "Web/Geographical Information Systems"
-      },
-      "instructor": {
-        "id": "81db7f41-504d-4e06-a90c-8c73b9e01d00",
-        "name": "David Ifa"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 1
-      },
-      "time": [
-        {
-          "day": "Tue",
-          "start": "14:00",
-          "end": "15:15"
-        },
-        {
-          "day": "Thu",
-          "start": "14:00",
-          "end": "15:15"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "39684ebc-8139-4dab-a488-ea30363764eb",
-      "section": "F21S0001",
-      "course": {
-        "id": "7425d8ab-9a10-46a4-b6d0-90c1b1dda2de",
-        "code": "I4200",
-        "name": "Computer Architecture"
-      },
-      "instructor": {
-        "id": "24c949ba-af1e-4c6f-9aca-5d5b1161c66b",
-        "name": "Behnam Sidsel"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 3
-      },
-      "time": [
-        {
-          "day": "Fri",
-          "start": "12:00",
-          "end": "15:30"
-        }
-      ],
-      "waitList": []
-    },
-    {
       "id": "s5jt3e9c-afb3-4ab1-83cd-4b310ed71108",
       "section": "S21S0000",
       "course": {
@@ -1193,475 +1048,6 @@
           "day": "Sat",
           "start": "10:00",
           "end": "12:30"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "dbd37b53-afb3-4ab1-83cd-4b310ed71108",
-      "section": "F21S0000",
-      "course": {
-        "id": "c7bdcc4d-4be3-4e4d-a6ca-f7fdf4f09f0e",
-        "code": "I4300",
-        "name": "Computer Communications"
-      },
-      "instructor": {
-        "id": "37b50cf3-459d-4ef9-a094-418b1e6e7fd0",
-        "name": "Oni Cledwyn"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 2
-      },
-      "time": [
-        {
-          "day": "Sat",
-          "start": "10:00",
-          "end": "12:30"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "e3ca0569-99b7-4a78-85a5-dba4b9d8c30d",
-      "section": "F21S0001",
-      "course": {
-        "id": "65bd754b-9a81-4591-9907-f50e5c8eeab1",
-        "code": "I0600",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "185d11e4-87e1-48ef-9bf9-20db45cf6cc8",
-        "name": "George Simon"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 3
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "13:30",
-          "end": "14:45"
-        },
-        {
-          "day": "Wed",
-          "start": "13:30",
-          "end": "14:45"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "0bd8c02e-dfaa-4d0b-ac82-8edb1779b763",
-      "section": "F21S0001",
-      "course": {
-        "id": "c7bdcc4d-4be3-4e4d-a6ca-f7fdf4f09f0e",
-        "code": "I4300",
-        "name": "Computer Communications"
-      },
-      "instructor": {
-        "id": "f0c17587-81d7-4291-b016-e83a99b4136d",
-        "name": "Alfhildr Melano"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 3
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "10:30",
-          "end": "13:00"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "dd268e8e-410f-4a9e-b076-38e105faa7c9",
-      "section": "F21S0000",
-      "course": {
-        "id": "689bdd87-ff4a-4985-857e-322bee90e7ef",
-        "code": "I2800",
-        "name": "Advanced Chemical Thermodynamics"
-      },
-      "instructor": {
-        "id": "fe8aa17d-5171-4b96-99b6-11d0795b4b73",
-        "name": "Aderyn Adam"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 4
-      },
-      "time": [
-        {
-          "day": "Sun",
-          "start": "12:00",
-          "end": "14:30"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "9332df71-57d8-49eb-bf06-d107600186bc",
-      "section": "F21S0001",
-      "course": {
-        "id": "689bdd87-ff4a-4985-857e-322bee90e7ef",
-        "code": "I2800",
-        "name": "Advanced Chemical Thermodynamics"
-      },
-      "instructor": {
-        "id": "dbf492b3-29e2-4bd2-af45-90bc0bf63f21",
-        "name": "Jamal Cyrillus"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "10:30",
-          "end": "13:00"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "2dd1bcd5-338b-47d7-b2ba-f76015c4bfe2",
-      "section": "F21S0003",
-      "course": {
-        "id": "65bd754b-9a81-4591-9907-f50e5c8eeab1",
-        "code": "I0600",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "99e6d990-c549-4657-be33-1ca6e5642fb1",
-        "name": "Denis P"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "09:45",
-          "end": "10:45"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "597f443b-1740-4654-ac67-ff7547ab3f65",
-      "section": "F21S0000",
-      "course": {
-        "id": "7425d8ab-9a10-46a4-b6d0-90c1b1dda2de",
-        "code": "I4200",
-        "name": "Computer Architecture"
-      },
-      "instructor": {
-        "id": "99e6d990-c549-4657-be33-1ca6e5642fb1",
-        "name": "Denis P"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Wed",
-          "start": "09:45",
-          "end": "10:45"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "5e432ff0-4467-4e28-8b1c-cda18b76f96e",
-      "section": "F21S0003",
-      "course": {
-        "id": "c7bdcc4d-4be3-4e4d-a6ca-f7fdf4f09f0e",
-        "code": "I4300",
-        "name": "Computer Communications"
-      },
-      "instructor": {
-        "id": "99e6d990-c549-4657-be33-1ca6e5642fb1",
-        "name": "Denis P"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Fri",
-          "start": "09:45",
-          "end": "10:45"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "724d10ba-a1eb-48f5-9869-42ae3c79b54f",
-      "section": "F21S0000",
-      "course": {
-        "id": "eebe6a46-d632-4db4-92dc-b8679943a13d",
-        "code": "I4400",
-        "name": "Advanced Computer Architecture"
-      },
-      "instructor": {
-        "id": "b8386e4e-c92d-40ff-aabc-87acbd61018f",
-        "name": "Kris M"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "11:00",
-          "end": "12:00"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "f20509b1-928f-43c7-a8d2-7b5b2e12f3f1",
-      "section": "F21S0000",
-      "course": {
-        "id": "c04f1db7-e81f-48f5-804b-d68639764c94",
-        "code": "G3300",
-        "name": "Mobile Robotics"
-      },
-      "instructor": {
-        "id": "b8386e4e-c92d-40ff-aabc-87acbd61018f",
-        "name": "Kris M"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Tue",
-          "start": "11:00",
-          "end": "12:00"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "92f36e69-cde6-46b2-a533-9b8766b0fc7b",
-      "section": "F21S0000",
-      "course": {
-        "id": "0430da69-589e-461a-b834-641693786830",
-        "code": "I5501",
-        "name": "Introduction to Robotics"
-      },
-      "instructor": {
-        "id": "b8386e4e-c92d-40ff-aabc-87acbd61018f",
-        "name": "Kris M"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Wed",
-          "start": "11:00",
-          "end": "12:00"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "437f530a-2c86-4d7a-a1f2-5db0a9ed8431",
-      "section": "F21S0000",
-      "course": {
-        "id": "bf080f4c-be2b-461e-9fc7-cf9ee5eb6326",
-        "code": "I2000",
-        "name": "Cell and Tissue Engineering"
-      },
-      "instructor": {
-        "id": "94ee3a6b-8c2d-433d-b14c-8f2d71fa4020",
-        "name": "sorowat P"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "13:00",
-          "end": "14:00"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "9e4821c4-ee51-4792-a7ab-eb69074ecaed",
-      "section": "F21S0000",
-      "course": {
-        "id": "2cfd6045-2404-46fc-9faa-2853d67c4374",
-        "code": "I4300",
-        "name": "Physiology for Biomedical Engineers"
-      },
-      "instructor": {
-        "id": "94ee3a6b-8c2d-433d-b14c-8f2d71fa4020",
-        "name": "sorowat P"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Tue",
-          "start": "13:00",
-          "end": "14:00"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "bf1bc7ba-2ed8-4428-b7ae-076f6780e317",
-      "section": "F21S0000",
-      "course": {
-        "id": "689bdd87-ff4a-4985-857e-322bee90e7ef",
-        "code": "I2800",
-        "name": "Advanced Chemical Thermodynamics"
-      },
-      "instructor": {
-        "id": "a64fd945-d3a2-4d8f-9c7e-c153005780dc",
-        "name": "Andy M"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Mon",
-          "start": "15:00",
-          "end": "16:00"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "03af76cd-7f0e-4090-b85d-bb8f84496d24",
-      "section": "F21S0000",
-      "course": {
-        "id": "f74cd3fc-42ee-4218-b106-ed8b812093cd",
-        "code": "I3300",
-        "name": "Advanced Chemical Reaction Engineering"
-      },
-      "instructor": {
-        "id": "a64fd945-d3a2-4d8f-9c7e-c153005780dc",
-        "name": "Andy M"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 4
-      },
-      "time": [
-        {
-          "day": "Tue",
-          "start": "15:00",
-          "end": "16:00"
-        }
-      ],
-      "waitList": []
-    },
-    {
-      "id": "404cafc5-2de1-41d7-998c-52f57cf7b04a",
-      "section": "F21S0000",
-      "course": {
-        "id": "b3d052e5-1164-4f08-9e78-185409014b6c",
-        "code": "I5700",
-        "name": "Advanced Materials Engineering"
-      },
-      "instructor": {
-        "id": "8bc95f33-b0ed-44f6-9110-6d64db212c75",
-        "name": "Midori P"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "capacity": {
-        "max": 5,
-        "available": 5
-      },
-      "time": [
-        {
-          "day": "Fri",
-          "start": "09:00",
-          "end": "10:00"
         }
       ],
       "waitList": []
@@ -1750,7 +1136,7 @@
         "semester": "Spring",
         "year": 2020
       },
-      "grade": "B+"
+      "grade": "W"
     },
     {
       "id": "c5ea134c-1a90-4fae-8eac-d82688fe2f98",
@@ -1879,153 +1265,6 @@
       "grade": "C"
     },
     {
-      "id": "8618fc65-b38f-4690-9746-b49f6feefad3",
-      "course": {
-        "id": "61f18133-b4a8-43c7-97ae-d99cbb8eaa5e",
-        "code": "I0600",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "185d11e4-87e1-48ef-9bf9-20db45cf6cc8",
-        "name": "George Simon"
-      },
-      "student": {
-        "id": "37798a5b-413a-4c1e-9e32-34a57f71d17e",
-        "name": "student"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "b93b4ede-3d07-47c5-a050-6ea0j17b7c81",
-      "course": {
-        "id": "da800807-15c8-4288-b2e0-07a4223039e2",
-        "code": "I4200",
-        "name": "Computer Architecture"
-      },
-      "instructor": {
-        "id": "24c949ba-af1e-4c6f-9aca-5d5b1161c66b",
-        "name": "Behnam Sidsel"
-      },
-      "student": {
-        "id": "3a1405de-8a77-4783-8def-1c95bb38f381",
-        "name": "Gilberte Apollonius"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "ed316667-53be-49e1-a889-ca9365ba1cbd",
-      "course": {
-        "code": "I3300",
-        "id": "03af76cd-7f0e-4090-b85d-bb8f84496d24",
-        "name": "Advanced Chemical Reaction Engineering"
-      },
-      "instructor": {
-        "id": "a64fd945-d3a2-4d8f-9c7e-c153005780dc",
-        "name": "Andy M"
-      },
-      "student": {
-        "id": "683b37c0-154e-488a-b09a-014784d48501",
-        "name": "Sanjay Nikša"
-      },
-      "term": {
-        "semester": "Spring",
-        "year": 2020
-      },
-      "grade": "A-"
-    },
-    {
-      "id": "743731fd-3923-4c2d-9704-f4e33c64e799",
-      "course": {
-        "code": "I2800",
-        "id": "dd268e8e-410f-4a9e-b076-38e105faa7c9",
-        "name": "Advanced Chemical Thermodynamics"
-      },
-      "instructor": {
-        "id": "fe8aa17d-5171-4b96-99b6-11d0795b4b73",
-        "name": "Aderyn Adam"
-      },
-      "student": {
-        "id": "683b37c0-154e-488a-b09a-014784d48501",
-        "name": "Sanjay Nikša"
-      },
-      "term": {
-        "semester": "Spring",
-        "year": 2020
-      },
-      "grade": "B+"
-    },
-    {
-      "id": "eae4c23f-704a-493e-80a2-08c81c13839c",
-      "course": {
-        "code": "I4300",
-        "id": "dbd37b53-afb3-4ab1-83cd-4b310ed71108",
-        "name": "Computer Communications"
-      },
-      "instructor": {
-        "id": "37b50cf3-459d-4ef9-a094-418b1e6e7fd0",
-        "name": "Oni Cledwyn"
-      },
-      "student": {
-        "id": "37798a5b-413a-4c1e-9e32-34a57f71d17e",
-        "name": "student"
-      },
-      "term": {
-        "semester": "Spring",
-        "year": 2020
-      },
-      "grade": "C"
-    },
-    {
-      "id": "3dff9dc3-53ad-4233-bb89-4a2d72a82ac1",
-      "course": {
-        "code": "I0802",
-        "id": "dcf7aa6c-c6fd-4664-adc9-2c81c7e55b9e",
-        "name": "Web/Geographical Information Systems"
-      },
-      "instructor": {
-        "id": "81db7f41-504d-4e06-a90c-8c73b9e01d00",
-        "name": "David Ifa"
-      },
-      "student": {
-        "id": "37798a5b-413a-4c1e-9e32-34a57f71d17e",
-        "name": "student"
-      },
-      "term": {
-        "semester": "Spring",
-        "year": 2020
-      },
-      "grade": "C"
-    },
-    {
-      "id": "4d9c5b1c-ab42-42e1-9781-210e99e77e9a",
-      "course": {
-        "code": "I4200",
-        "id": "da800807-15c8-4288-b2e0-07a4223039e2",
-        "name": "Computer Architecture"
-      },
-      "instructor": {
-        "id": "24c949ba-af1e-4c6f-9aca-5d5b1161c66b",
-        "name": "Behnam Sidsel"
-      },
-      "student": {
-        "id": "37798a5b-413a-4c1e-9e32-34a57f71d17e",
-        "name": "student"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
       "id": "ba91f037-1517-4912-94ef-ff9e97e86cb3",
       "course": {
         "code": "I0802",
@@ -2066,27 +1305,6 @@
         "year": 2021
       },
       "grade": "W"
-    },
-    {
-      "id": "5f1a28a3-2fe5-4970-be3f-87527b15716b",
-      "course": {
-        "code": "I4200",
-        "id": "da800807-15c8-4288-b2e0-07a4223039e2",
-        "name": "Computer Architecture"
-      },
-      "instructor": {
-        "id": "24c949ba-af1e-4c6f-9aca-5d5b1161c66b",
-        "name": "Behnam Sidsel"
-      },
-      "student": {
-        "id": "82752ec9-f779-4e17-a693-7add394cdbbf",
-        "name": "Aurelia Malin"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
     },
     {
       "id": "05b3e6dc-20b3-414c-8136-a01e59d801bc",
@@ -2131,111 +1349,6 @@
       "grade": "W"
     },
     {
-      "id": "999b129e-2702-4062-9ad8-8d2c35314a54",
-      "course": {
-        "code": "I4200",
-        "id": "39684ebc-8139-4dab-a488-ea30363764eb",
-        "name": "Computer Architecture"
-      },
-      "instructor": {
-        "id": "24c949ba-af1e-4c6f-9aca-5d5b1161c66b",
-        "name": "Behnam Sidsel"
-      },
-      "student": {
-        "id": "dbf3da2b-5b2d-4308-8333-afa147652666",
-        "name": "Ayokunle Christobel"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "dd32826d-8aa2-45e6-bfbb-2bb50316abbc",
-      "course": {
-        "code": "I4200",
-        "id": "39684ebc-8139-4dab-a488-ea30363764eb",
-        "name": "Computer Architecture"
-      },
-      "instructor": {
-        "id": "24c949ba-af1e-4c6f-9aca-5d5b1161c66b",
-        "name": "Behnam Sidsel"
-      },
-      "student": {
-        "id": "fa266483-2f73-4df9-a3e9-dea9f051de03",
-        "name": "Ioses Mirko"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "06a66d80-98ad-404b-85e7-1ccbd06c3edd",
-      "course": {
-        "code": "I4300",
-        "id": "0bd8c02e-dfaa-4d0b-ac82-8edb1779b763",
-        "name": "Computer Communications"
-      },
-      "instructor": {
-        "id": "f0c17587-81d7-4291-b016-e83a99b4136d",
-        "name": "Alfhildr Melano"
-      },
-      "student": {
-        "id": "fa266483-2f73-4df9-a3e9-dea9f051de03",
-        "name": "Ioses Mirko"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "bbbaf322-79a4-46df-a179-a05e2e10f8e7",
-      "course": {
-        "code": "I0600",
-        "id": "61f18133-b4a8-43c7-97ae-d99cbb8eaa5e",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "185d11e4-87e1-48ef-9bf9-20db45cf6cc8",
-        "name": "George Simon"
-      },
-      "student": {
-        "id": "683b3084-b493-48ea-a649-ffb9635654f5",
-        "name": "Jeffrey Mina"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "bf243deb-d577-4ba4-97f4-ce74e8546a5f",
-      "course": {
-        "code": "I0802",
-        "id": "dcf7aa6c-c6fd-4664-adc9-2c81c7e55b9e",
-        "name": "Web/Geographical Information Systems"
-      },
-      "instructor": {
-        "id": "81db7f41-504d-4e06-a90c-8c73b9e01d00",
-        "name": "David Ifa"
-      },
-      "student": {
-        "id": "683b3084-b493-48ea-a649-ffb9635654f5",
-        "name": "Jeffrey Mina"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
       "id": "a3bb6f23-29fa-4d57-8662-238ba6517d49",
       "course": {
         "code": "I4300",
@@ -2257,69 +1370,6 @@
       "grade": "B-"
     },
     {
-      "id": "a865d5f8-712d-47b8-abb3-f713cccc14d3",
-      "course": {
-        "code": "I0802",
-        "id": "dcf7aa6c-c6fd-4664-adc9-2c81c7e55b9e",
-        "name": "Web/Geographical Information Systems"
-      },
-      "instructor": {
-        "id": "81db7f41-504d-4e06-a90c-8c73b9e01d00",
-        "name": "David Ifa"
-      },
-      "student": {
-        "id": "84de1d70-b72d-45da-b8e9-805dfaf33503",
-        "name": "Rabindra Yadav"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "57b6f14d-e2cd-416f-acb0-9cd183746f8c",
-      "course": {
-        "code": "I0600",
-        "id": "e3ca0569-99b7-4a78-85a5-dba4b9d8c30d",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "185d11e4-87e1-48ef-9bf9-20db45cf6cc8",
-        "name": "George Simon"
-      },
-      "student": {
-        "id": "84de1d70-b72d-45da-b8e9-805dfaf33503",
-        "name": "Rabindra Yadav"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "455361d2-9fde-481b-956f-36f621f5784b",
-      "course": {
-        "code": "I4300",
-        "id": "0bd8c02e-dfaa-4d0b-ac82-8edb1779b763",
-        "name": "Computer Communications"
-      },
-      "instructor": {
-        "id": "f0c17587-81d7-4291-b016-e83a99b4136d",
-        "name": "Alfhildr Melano"
-      },
-      "student": {
-        "id": "84de1d70-b72d-45da-b8e9-805dfaf33503",
-        "name": "Rabindra Yadav"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
       "id": "0621d032-380c-4412-9c60-d1bcc69e5933",
       "course": {
         "code": "I4200",
@@ -2339,69 +1389,6 @@
         "year": 2020
       },
       "grade": "C"
-    },
-    {
-      "id": "e535eb47-9231-4f5d-b4a9-15fd16484c90",
-      "course": {
-        "code": "I0600",
-        "id": "e3ca0569-99b7-4a78-85a5-dba4b9d8c30d",
-        "name": "Advanced Algorithms"
-      },
-      "instructor": {
-        "id": "185d11e4-87e1-48ef-9bf9-20db45cf6cc8",
-        "name": "George Simon"
-      },
-      "student": {
-        "id": "d86601b0-c7ad-4499-9474-2b53a1785597",
-        "name": "Kristopher Alexis"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "457e87c6-29aa-4ae3-bf00-4eaa6391536f",
-      "course": {
-        "code": "I4300",
-        "id": "dbd37b53-afb3-4ab1-83cd-4b310ed71108",
-        "name": "Computer Communications"
-      },
-      "instructor": {
-        "id": "37b50cf3-459d-4ef9-a094-418b1e6e7fd0",
-        "name": "Oni Cledwyn"
-      },
-      "student": {
-        "id": "d86601b0-c7ad-4499-9474-2b53a1785597",
-        "name": "Kristopher Alexis"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
-    },
-    {
-      "id": "64c8bb07-4bef-477f-8d7c-50fd04750104",
-      "course": {
-        "code": "I0802",
-        "id": "dcf7aa6c-c6fd-4664-adc9-2c81c7e55b9e",
-        "name": "Web/Geographical Information Systems"
-      },
-      "instructor": {
-        "id": "81db7f41-504d-4e06-a90c-8c73b9e01d00",
-        "name": "David Ifa"
-      },
-      "student": {
-        "id": "d86601b0-c7ad-4499-9474-2b53a1785597",
-        "name": "Kristopher Alexis"
-      },
-      "term": {
-        "semester": "Fall",
-        "year": 2021
-      },
-      "grade": ""
     },
     {
       "id": "d761ea40-53c9-4f1f-8a26-66dac1d9edd2",
@@ -2570,13 +1557,16 @@
   "tabooWords": [
     {
       "id": "taboolist",
-      "tabooList": ["simp", "ass"]
+      "tabooList": [
+        "simp",
+        "ass"
+      ]
     }
   ],
   "term": [
     {
       "id": "terminfo",
-      "phase": "set-up",
+      "phase": "grading",
       "semester": "Fall",
       "year": 2021,
       "specReg": false
@@ -2592,6 +1582,536 @@
       },
       "reason": "You have been warned due to a report",
       "value": 1
+    },
+    {
+      "id": "328f2ea7-129d-40b8-ade6-222e49f36768",
+      "date": "2021-12-08T03:09:33.971Z",
+      "user": {
+        "id": "104713d0-d46f-4a4e-930f-ea63bc48f915",
+        "name": "student2"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "dfb1dc79-96cf-4aaa-a4fc-57e8307c3c0b",
+      "date": "2021-12-08T03:09:34.084Z",
+      "user": {
+        "id": "d2430223-9daf-45b1-92e0-bd284f1d9aa6",
+        "name": "David Miller"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "15061d02-20ab-4ef6-93dd-4585d492d392",
+      "date": "2021-12-08T03:09:34.211Z",
+      "user": {
+        "id": "0736f485-f6b4-43d6-8fe4-66d54ca233cc",
+        "name": "Malik Vijay"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "0007f882-7149-43c7-8949-b214d83cf7f7",
+      "date": "2021-12-08T03:09:34.435Z",
+      "user": {
+        "id": "6bb3fa29-1214-464f-92ae-7daa7c98222c",
+        "name": "Anil Bhusal"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "ad093a0e-240e-4d97-8518-e30463825847",
+      "date": "2021-12-08T03:09:34.641Z",
+      "user": {
+        "id": "2bcae42f-037d-415d-b2ee-39d54b9b7825",
+        "name": "Velimir Baishan"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "51d346a1-79fb-4683-a4d5-af018a1381ae",
+      "date": "2021-12-08T03:09:34.767Z",
+      "user": {
+        "id": "887aa01c-9185-4b0d-a7ad-5d4873b103ff",
+        "name": "Sher Aditya"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "f6a3fc54-021a-4a37-9804-e8a4517739f9",
+      "date": "2021-12-08T03:09:34.880Z",
+      "user": {
+        "id": "baa96da0-e27b-4c55-8cd5-a8f8c18451b3",
+        "name": "Adalberht Katey"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "9b42265a-2ea2-49e3-b1c7-3c6ad10ad229",
+      "date": "2021-12-08T03:09:35.004Z",
+      "user": {
+        "id": "f04c5375-923d-43ea-9ccf-5d440a0c89db",
+        "name": "Hina Norah"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "6c40e93d-ff98-4003-8dcc-c644775fc4c7",
+      "date": "2021-12-08T03:09:35.132Z",
+      "user": {
+        "id": "030339bf-6f0d-4f97-9ee9-32509ab6313b",
+        "name": "Xiadani Tanguy"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "ccb39b6b-5671-4b8e-aac3-bafc7bfa9ace",
+      "date": "2021-12-08T03:09:35.255Z",
+      "user": {
+        "id": "bc716127-f36f-48a2-b304-c3816ad6c8ef",
+        "name": "Akbar Askr"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "328470b8-21a6-4393-a07d-bfe706fefa89",
+      "date": "2021-12-08T03:09:35.381Z",
+      "user": {
+        "id": "511f5b8f-2ca3-47e6-8aa6-3e6bc78f31ea",
+        "name": "Vishal Gilbert"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "2a4a70f6-409b-4300-b5d4-a450a3762345",
+      "date": "2021-12-08T03:09:35.492Z",
+      "user": {
+        "id": "b128de22-2a5a-4098-9e2d-64d8309110e1",
+        "name": "Rosalia Gunnr"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "fcb5008b-5cc3-422d-b73c-0f6cb7935acf",
+      "date": "2021-12-08T03:09:35.619Z",
+      "user": {
+        "id": "09fcfc8b-406e-45b6-bb81-0edd9f05d83c",
+        "name": "Dana Zinat"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "5dc0139c-da3f-4249-a26e-7121a0421861",
+      "date": "2021-12-08T03:09:35.747Z",
+      "user": {
+        "id": "6cd180fb-b806-434c-925a-658504b67134",
+        "name": "Narayan Khanal "
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "518841ca-14d1-4c01-b87c-ca2e1d331a0a",
+      "date": "2021-12-08T03:09:35.893Z",
+      "user": {
+        "id": "4b95e86e-3398-4c58-bc6e-fafe094a1d1d",
+        "name": "Ganesh Shah"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "a16b46d8-f0fd-44c7-9cbd-e69ce17489ad",
+      "date": "2021-12-08T03:09:35.975Z",
+      "user": {
+        "id": "456024e0-84ac-4f71-a7e6-98fbafe0d162",
+        "name": "Tenzin Tashi"
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "68e37383-04a2-4467-8f86-5fa97cf9f0ad",
+      "date": "2021-12-08T03:09:36.112Z",
+      "user": {
+        "id": "c4f05e4a-06b1-4ec1-be80-95c615398899",
+        "name": "Jharana "
+      },
+      "reason": "Student taking less than 2 courses",
+      "value": 1
+    },
+    {
+      "id": "5206fe8c-cf79-4607-a7b0-6cfacbffab31",
+      "date": "2021-12-08T03:09:36.427Z",
+      "user": {
+        "id": "81db7f41-504d-4e06-a90c-8c73b9e01d00",
+        "name": "David Ifa"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "6e82a4df-7109-4ae2-a596-a06b8080bab4",
+      "date": "2021-12-08T03:09:36.998Z",
+      "user": {
+        "id": "24c949ba-af1e-4c6f-9aca-5d5b1161c66b",
+        "name": "Behnam Sidsel"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "d6b762b6-e3fc-4464-99f2-3c5cf51e938b",
+      "date": "2021-12-08T03:09:37.556Z",
+      "user": {
+        "id": "185d11e4-87e1-48ef-9bf9-20db45cf6cc8",
+        "name": "George Simon"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "dee06163-3aa4-42ec-a83f-8725f12a8e69",
+      "date": "2021-12-08T03:09:38.013Z",
+      "user": {
+        "id": "81db7f41-504d-4e06-a90c-8c73b9e01d00",
+        "name": "David Ifa"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "db576544-1ad4-4f18-85d2-0a4b83af8676",
+      "date": "2021-12-08T03:09:38.397Z",
+      "user": {
+        "id": "24c949ba-af1e-4c6f-9aca-5d5b1161c66b",
+        "name": "Behnam Sidsel"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "adec630e-3a4d-4537-a67c-b51b4ae4b2ac",
+      "date": "2021-12-08T03:09:38.855Z",
+      "user": {
+        "id": "37b50cf3-459d-4ef9-a094-418b1e6e7fd0",
+        "name": "Oni Cledwyn"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "3c17cb14-4192-48f1-ac2a-e0411898f403",
+      "date": "2021-12-08T03:09:39.206Z",
+      "user": {
+        "id": "185d11e4-87e1-48ef-9bf9-20db45cf6cc8",
+        "name": "George Simon"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "5a38e823-2e60-4ef9-bf03-01af710c6faa",
+      "date": "2021-12-08T03:09:39.556Z",
+      "user": {
+        "id": "f0c17587-81d7-4291-b016-e83a99b4136d",
+        "name": "Alfhildr Melano"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "4019aaa0-eb11-447b-a4a6-68d206732d50",
+      "date": "2021-12-08T03:09:39.843Z",
+      "user": {
+        "id": "fe8aa17d-5171-4b96-99b6-11d0795b4b73",
+        "name": "Aderyn Adam"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "f9c914f3-db3b-47be-a8eb-b45b59238af3",
+      "date": "2021-12-08T03:09:40.039Z",
+      "user": {
+        "id": "dbf492b3-29e2-4bd2-af45-90bc0bf63f21",
+        "name": "Jamal Cyrillus"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "7b0b7e67-b9a4-4b9e-a235-c746c2890fd9",
+      "date": "2021-12-08T03:09:40.226Z",
+      "user": {
+        "id": "99e6d990-c549-4657-be33-1ca6e5642fb1",
+        "name": "Denis P"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "ef97e2bc-2a33-474c-889e-2fcdb28645cc",
+      "date": "2021-12-08T03:09:40.411Z",
+      "user": {
+        "id": "99e6d990-c549-4657-be33-1ca6e5642fb1",
+        "name": "Denis P"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "82ad8e22-45d0-4cce-8cb1-b1b6f48b9904",
+      "date": "2021-12-08T03:09:40.599Z",
+      "user": {
+        "id": "99e6d990-c549-4657-be33-1ca6e5642fb1",
+        "name": "Denis P"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "4cdcb7a8-4704-418b-aeb9-5633f37d0a70",
+      "date": "2021-12-08T03:09:40.790Z",
+      "user": {
+        "id": "b8386e4e-c92d-40ff-aabc-87acbd61018f",
+        "name": "Kris M"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "b90dd435-3c22-4550-93e4-3e2a64d6a249",
+      "date": "2021-12-08T03:09:40.977Z",
+      "user": {
+        "id": "b8386e4e-c92d-40ff-aabc-87acbd61018f",
+        "name": "Kris M"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "9c7d52b2-22a4-49b6-8291-258675e0a68f",
+      "date": "2021-12-08T03:09:41.169Z",
+      "user": {
+        "id": "b8386e4e-c92d-40ff-aabc-87acbd61018f",
+        "name": "Kris M"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "32b84ea9-8f8e-4970-9901-8d5c187bce21",
+      "date": "2021-12-08T03:09:41.358Z",
+      "user": {
+        "id": "94ee3a6b-8c2d-433d-b14c-8f2d71fa4020",
+        "name": "sorowat P"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "6c7c4d92-4b70-452a-a126-e930b542067f",
+      "date": "2021-12-08T03:09:41.546Z",
+      "user": {
+        "id": "94ee3a6b-8c2d-433d-b14c-8f2d71fa4020",
+        "name": "sorowat P"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "8f7e2cb2-4473-4f50-a354-8a369b87815f",
+      "date": "2021-12-08T03:09:41.688Z",
+      "user": {
+        "id": "a64fd945-d3a2-4d8f-9c7e-c153005780dc",
+        "name": "Andy M"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "7ebefa14-6703-469f-af4e-9b5c33e45215",
+      "date": "2021-12-08T03:09:41.925Z",
+      "user": {
+        "id": "a64fd945-d3a2-4d8f-9c7e-c153005780dc",
+        "name": "Andy M"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "be1d360f-f237-4b59-b714-835a5934bb16",
+      "date": "2021-12-08T03:09:42.099Z",
+      "user": {
+        "id": "8bc95f33-b0ed-44f6-9110-6d64db212c75",
+        "name": "Midori P"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "c2028500-b3eb-4d38-a55a-b5e08c1debbe",
+      "date": "2021-12-08T03:09:42.289Z",
+      "user": {
+        "id": "b5e043f1-8948-45ef-b9a7-459806d7985a",
+        "name": "KN"
+      },
+      "reason": "Teaching a cancelled course",
+      "value": 1
+    },
+    {
+      "id": "e66999b1-9c2c-4b8a-abb2-88221617adc9",
+      "date": "2021-12-08T03:09:42.591Z",
+      "user": {
+        "id": "f0c17587-81d7-4291-b016-e83a99b4136d",
+        "name": "Alfhildr Melano"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "53a356a9-0fb8-4131-9e9f-beca9a632ce9",
+      "date": "2021-12-08T03:09:42.701Z",
+      "user": {
+        "id": "975f23bc-0779-4f7f-85e2-89f086ad986c",
+        "name": "Elena Patroklos"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "7140ad4c-b6f0-40ec-8189-916703083d4c",
+      "date": "2021-12-08T03:09:42.829Z",
+      "user": {
+        "id": "fea28b7d-cfc5-4b12-9bc5-2fa18c46bae7",
+        "name": "Olindo Klara"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "d218efaa-5e08-47cb-98ab-ddbfd428c7e2",
+      "date": "2021-12-08T03:09:42.957Z",
+      "user": {
+        "id": "dbf492b3-29e2-4bd2-af45-90bc0bf63f21",
+        "name": "Jamal Cyrillus"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "083ff97f-6426-4937-bf1e-14c7c90803c2",
+      "date": "2021-12-08T03:09:43.081Z",
+      "user": {
+        "id": "cd341c1a-bf53-497c-a78e-676623607646",
+        "name": "Dakila Claudia"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "8038b62c-2ba9-4c90-96e7-2243316b86a0",
+      "date": "2021-12-08T03:09:43.208Z",
+      "user": {
+        "id": "5b6f40e4-8431-4f8a-a8af-db0b389e2035",
+        "name": "Giobbe Rishi"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "20a7a872-7b2f-4add-a4b8-43c9cfd04285",
+      "date": "2021-12-08T03:09:43.338Z",
+      "user": {
+        "id": "fe8aa17d-5171-4b96-99b6-11d0795b4b73",
+        "name": "Aderyn Adam"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "e7b6d837-5800-4d45-ba14-5ce74c5d8827",
+      "date": "2021-12-08T03:09:43.461Z",
+      "user": {
+        "id": "99e6d990-c549-4657-be33-1ca6e5642fb1",
+        "name": "Denis P"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "a44da9e4-191f-4711-8cb2-7c1fbdcc5341",
+      "date": "2021-12-08T03:09:43.589Z",
+      "user": {
+        "id": "b8386e4e-c92d-40ff-aabc-87acbd61018f",
+        "name": "Kris M"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "a4785ba8-545e-493a-bcd1-1d02ade6fea7",
+      "date": "2021-12-08T03:09:43.714Z",
+      "user": {
+        "id": "94ee3a6b-8c2d-433d-b14c-8f2d71fa4020",
+        "name": "sorowat P"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "ed274250-e064-4f4d-b1dd-6610ebf7fcf6",
+      "date": "2021-12-08T03:09:43.826Z",
+      "user": {
+        "id": "a64fd945-d3a2-4d8f-9c7e-c153005780dc",
+        "name": "Andy M"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "85d3554c-2170-4251-bdda-96b475e8d636",
+      "date": "2021-12-08T03:09:43.954Z",
+      "user": {
+        "id": "8bc95f33-b0ed-44f6-9110-6d64db212c75",
+        "name": "Midori P"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "923384e4-49e1-4bc3-a404-2f4aabad9c9a",
+      "date": "2021-12-08T03:09:44.082Z",
+      "user": {
+        "id": "05a104c8-c2ee-42ae-ba6f-e4e43187ab38",
+        "name": "Max R"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
+    },
+    {
+      "id": "85201cab-e339-4bc3-a066-33135fbcb705",
+      "date": "2021-12-08T03:09:44.209Z",
+      "user": {
+        "id": "b5e043f1-8948-45ef-b9a7-459806d7985a",
+        "name": "KN"
+      },
+      "reason": "Instructor is teaching no courses and will be suspended",
+      "value": 3
     }
   ],
   "reviews": [
